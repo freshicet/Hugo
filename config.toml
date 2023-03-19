@@ -1,4 +1,4 @@
-baseURL = "https://benjamintaylor.me/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Ben Taylor"
 theme = "personal-web"
