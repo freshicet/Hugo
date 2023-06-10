@@ -35,3 +35,7 @@ description: Hey, I'm Ben Taylor
 - CompTIA Security+ SY0-601
 
   - Passed on June 2, 2022
+
+- HTML Certificate
+
+  - Passed on June 9, 2023
