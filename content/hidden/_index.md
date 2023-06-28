@@ -1,41 +1,39 @@
 ---
-title: ABOUT
-description: Hey, I'm Ben Taylor
+title: Hidden field
+description:
 ---
 
-# Education
+# Surprise! The Hidden Page Has Been Found!
 
-- **Missouri Southern State University**
+## A Poem About Cats and you!
 
-  - Bachelor of Science Degree in Criminal Justice, May 2013
+In the depths of cyberspace, a secret laid,
+A hidden page where secrets played.
+But my dear wife, with eyes so bright,
+Unveiled its magic with her delight.
 
-- **University of Kansas**
+Oh, how our lives have intertwined,
+Like feline grace, so undefined.
+With each gentle purr and loving stare,
+You bring warmth and joy beyond compare.
 
-  - Cybersecurity Boot Camp, September 2021
+Just like cats with their curious ways,
+You explore the depths and brighten my days.
+Your spirit, fierce and yet so kind,
+Is a treasure I'm grateful to call mine.
 
-# Work Experience
+From playful paws to gentle strokes,
+Our love, a bond that never chokes.
+Together we'll roam this digital land,
+Hand in hand, united we'll stand.
 
-- **CivicPlus**
+So here's to you, my dearest love,
+Like cats, we fit, snug as a glove.
+Thank you for discovering this hidden delight,
+Forever cherished, in my heart's soft light.
 
-  - Technical Support Engineer I, April 2021 - Present
-  - Assisted customers with more difficult technical issues requiring a greater level of personalized care and in greater length. Coordinated with Level 1 technical support specialists to take over calls outside their level of support.
+---
 
-- **High Plains Mental Health Center**
+## I love you always and for forever and happy anniversary!
 
-  - Information Technology Specialist, June 2019 - April 2021
-  - Analyzed, operated, administered, maintained, tested, and implemented the network interconnection of devices, systems and communication services to meet the functional objectives of the Center. Responsible for all aspects of the Tele-video network, VOIP telephone system, computer network including internet, and local area network.
-
-- **Eagle Technology Solutions**
-
-  - Service Technician, June 2018 – June 2019
-  - Proactively maintained clients’ computer environments by analyzing requirements, resolving problems, and installing hardware and software solutions.
-
-# Certification
-
-- CompTIA Security+ SY0-601
-
-  - Passed on June 2, 2022
-
-- HTML Certificate
-
-  - Passed on June 9, 2023
+I also add something on Switch for you and me!
