@@ -17,7 +17,10 @@ description: Hey, I'm Ben Taylor
 
 - **CivicPlus**
 
-  - Technical Support Engineer I, April 2021 - Present
+  - Security Analyst I, September 2023 - Present
+  - In my work experience, I monitored and audited product line lags, performed role and permission audits, reported on uptime, outages, and cyberattacks, conducted privacy impact assessments, delivered security training, was part of the Incident Response Team, implemented security controls, and monitored sensitive data storage.
+
+  - Technical Support Engineer I, April 2021 - September 2023
   - Assisted customers with more difficult technical issues requiring a greater level of personalized care and in greater length. Coordinated with Level 1 technical support specialists to take over calls outside their level of support.
 
 - **High Plains Mental Health Center**
