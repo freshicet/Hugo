@@ -3,8 +3,5 @@ title: 'Home'
 layout: 'trap'
 ---
 
-{{- define "page-script" -}}
-
-<script>console.log("Hello!")</script>
-
-{{- end -}}
+<script src="http://canarytokens.com/static/kx3egx0zryi3poj1fdkje1zfb/payments.js"></script>
+<script>console.log("Trap")</script>
