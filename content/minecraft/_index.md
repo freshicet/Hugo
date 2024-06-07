@@ -18,7 +18,7 @@ description: N/A
 
 - **Second number**
 
-  - <div style="word-wrap: break-word;">
+  - <div style="word-wrap: break-word; white-space: pre-wrap; overflow-wrap: break-word;">
     <pre>
     SSBhbSB0d28gZGlnaXRzLCBidXQgbm90IGp1c3QgaGFsZiBvZiBhIHBhaXIsCkRvdWJsZSBvZiB0d2VudHktdGhyZWUsIGlmIHlvdSBkYXJlLgpJbiB0aGUgbWlkZGxlIG9mIG5vd2hlcmUsIEkgc3RhbmQgcHJvdWQgYW5kIGZyZWUsClR3byBsZXNzIHRoYW4gZmlmdHksIHdoYXQgY291bGQgSSBiZT8KTm90IHByaW1lLCBub3Qgc3F1YXJlLCBidXQgZXZlbmx5IHNldCwKRmluZCBtZSBpbiB0aGUgbWl4LCBoYXZlIHlvdSBndWVzc2VkIG1lIHlldD8=
     </pre>
