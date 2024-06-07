@@ -18,11 +18,12 @@ description: N/A
 
 - **Second number**
 
-  - SSBhbSB0d28gZGlnaXRzLCBidXQgbm90IGp1c3QgaGFsZiBvZiBhIHBhaXIsCkRvdWJsZSBvZiB0d2V
-    udHktdGhyZWUsIGlmIHlvdSBkYXJlLgpJbiB0aGUgbWlkZGxlIG9mIG5vd2hlcmUsIEkgc3RhbmQgcH
-    JvdWQgYW5kIGZyZWUsClR3byBsZXNzIHRoYW4gZmlmdHksIHdoYXQgY291bGQgSSBiZT8KTm90IHBya
-    W1lLCBub3Qgc3F1YXJlLCBidXQgZXZlbmx5IHNldCwKRmluZCBtZSBpbiB0aGUgbWl4LCBoYXZlIHlv
-    dSBndWVzc2VkIG1lIHlldD8=
+  - SSBhbSB0d28gZGlnaXRzLCBidXQgbm90IGp1c3QgaGFsZiBvZiBhIHBhaXIsCkRvd
+    WJsZSBvZiB0d2VudHktdGhyZWUsIGlmIHlvdSBkYXJlLgpJbiB0aGUgbWlkZGxlIG
+    9mIG5vd2hlcmUsIEkgc3RhbmQgcHJvdWQgYW5kIGZyZWUsClR3byBsZXNzIHRoYW4
+    gZmlmdHksIHdoYXQgY291bGQgSSBiZT8KTm90IHByaW1lLCBub3Qgc3F1YXJlLCBi
+    dXQgZXZlbmx5IHNldCwKRmluZCBtZSBpbiB0aGUgbWl4LCBoYXZlIHlvdSBndWVzc
+    2VkIG1lIHlldD8=
 
   - **Hint:** Unlock the secrets encoded in a language of numbers and letters, where every character carries a hidden message. Think of a method often used to transmit binary data in a human-readable format.
 
