@@ -29,11 +29,14 @@ description: N/A
 
 - **Third number**
 
-  - Feb hkxiyl U pbpf, vvjg kmg vcie,
-    Tgq trwu khfg m khfg, jhtnxl lsw uawx.
-    Pwhfnv a hemafme uoexz xyyu kwt,
-    Lbtvx ov is miw, nrf grnfqa psov tmkactl.
-    K'd njlftrh dvtbxqv n ttzmj tzl n wslawx,
-    Ipnx cd I, htz gby fvcqtdm?
+  - Uv gaq uilbfa V vgjiix, zwg uwztj mtzri,
+    C euruqz lsw'cl kbzl, vj afu qhas nrf jej.
+    Tpl gagetd-yace xq r cqteavg jrlk-vqvgytp,
+    Asw fprr afu bbxt fig, r szkq ohetrnyxq.
 
-  - **Hint:** This can befound after 5 April 1523 the key is to Dig deep into the secrets of blocky worlds, where adventures and mining prevail. A name that resonates with creativity and endless exploration holds the key.
+    Q ssncob t bzvqg, rni idmpifv a xjgiei,
+    Ke a qbeb bj plmgxda, V'q ccwfre buitv.
+    Rjoqzfi ov, ytn'xt smpu, tmx dmfynk ix hpl,
+    Jlck nzfnme eo Z, cfg kwh erglfnp?
+
+- **Hint:** This can befound after 5 April 1523 the key is to Dig deep into the secrets of blocky worlds, where adventures and mining prevail. A name that resonates with creativity and endless exploration holds the key.
