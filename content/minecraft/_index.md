@@ -3,7 +3,7 @@ title: minecraft
 description: N/A
 ---
 
-# You found the site! I can update the site at you get unlock the riddle and number!
+# You've found the site! I can update it once you unlock the riddle and number!
 
 - **First number**
 
