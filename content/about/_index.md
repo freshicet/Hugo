@@ -35,6 +35,10 @@ description: Hey, I'm Ben Taylor
 
 # Certification
 
+- CompTIA Pentest+ PT0-003
+
+  - Passed on August 1, 2024
+
 - CompTIA Security+ SY0-601
 
   - Passed on June 2, 2022
